@@ -1,8 +1,10 @@
 {
-  "latest_version": "V3",
-  "download_url": "",
+  "latest_version": "V3.1",
+  "download_url": "https://github.com/你的用户名/ImageTool-Release/releases/latest",
   "release_notes": [
-    "当前版本 V3"
+    "新增指定首图功能",
+    "优化自然排序",
+    "优化首图详情页加载速度"
   ],
   "published_at": "2026-06-09",
   "force_update": false
