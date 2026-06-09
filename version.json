@@ -1,9 +1,9 @@
 {
-  "latest_version": "V3.3",
+  "latest_version": "V3.4",
   "download_url": "https://github.com/MrLiu6886Git/ImageTool-Release/releases/latest",
   "release_notes": [
-    "统一提示弹窗",
-    "测试新版本更新检查是否准确",
+    "调整更新图标状态",
+    "修复 GitHub raw 缓存导致新版检查不及时的问题",
     "温馨提醒:下载新版本后请退出旧版本并删除对应文件夹，将新版本文件夹解压后打开即可使用"
   ],
   "published_at": "2026-06-09",
